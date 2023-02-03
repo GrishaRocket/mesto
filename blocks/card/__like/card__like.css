@@ -7,7 +7,7 @@
   background-size: cover;
   background-position: center;
   background-image: url(../../../images/Vector.png);
-  transition: 0.2s;
+  transition:linear ease-in-out 0,2s;
 }
 
 .card__like:hover{
