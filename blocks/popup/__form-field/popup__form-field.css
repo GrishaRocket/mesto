@@ -2,15 +2,14 @@
   display: block;
   border: 0;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
-  width: 83%;
-  margin: 0 auto;
+  width: 100%;
   font-family: 'Inter', Arial, sans-serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 17px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  margin-top: 21px;
+  padding: 10px 0;
+  margin: 20px 0;
+  box-sizing: border-box;
 }
 
 .popup__form-field:focus {
